@@ -3,6 +3,8 @@ Send plaintext messages from Pidgin (jwchat.org compatibility)
 
 Based on excellent b64 simple perl plugin by Chetan Vaity
 
+Dependes on HTML::Strip Perl module.
+
 Just place into ~/.purple/plugins
 
 Not even a restart of pidgin is needed - just enable and select account(s) to be used with.
